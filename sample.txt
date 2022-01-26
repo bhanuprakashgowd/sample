@@ -1,0 +1,5 @@
+2.1 Precompiled binaries (Linux and macOS)
+Download the appropriate distribution for your operating system, choosing either the latest build (recommended) or a
+stable release from:
+• https://github.com/NeoGeographyToolkit/StereoPipeline/releases
+No installation steps or administrative rights are necessary. Extract the archive, and run the executables
