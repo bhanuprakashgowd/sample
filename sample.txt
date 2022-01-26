@@ -3,3 +3,6 @@ Download the appropriate distribution for your operating system, choosing either
 stable release from:
 • https://github.com/NeoGeographyToolkit/StereoPipeline/releases
 No installation steps or administrative rights are necessary. Extract the archive, and run the executables
+Finally, if you are working with planetary data, you need to complete the ISIS installation steps from this new asp
+conda environment. Your new asp environment already has the base ISIS software installed, but you must run the
+script which sets the ISIS environment variables, and also install the appropriate ISIS data files
