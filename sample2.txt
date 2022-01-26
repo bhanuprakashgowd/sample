@@ -1,1 +1,5 @@
-haiii file am a second file
+This chapter will discuss in more detail ASP’s stereo process and other tools available to either pre-process the input
+images/cameras or to manipulate parallel_stereo’s outputs, both in the context of planetary ISIS data and for
+Earth images. This includes how to (a) customize parallel_stereo’s settings (b) use point2dem to create 3D
+terrain models, (c) visualize the results, (d) align the obtained point clouds to another data source, (e) perform 3D
+terrain adjustments in respect to a geoid, etc.haiii file am a second file
