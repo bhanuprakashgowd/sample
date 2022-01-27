@@ -6,3 +6,5 @@ No installation steps or administrative rights are necessary. Extract the archiv
 Finally, if you are working with planetary data, you need to complete the ISIS installation steps from this new asp
 conda environment. Your new asp environment already has the base ISIS software installed, but you must run the
 script which sets the ISIS environment variables, and also install the appropriate ISIS data files
+
+i modified into desktop
